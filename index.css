@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     margin: 0;
     text-align: left;
@@ -93,3 +94,8 @@ table {
   #about{
       padding-left: 0;
   }
+=======
+h1{
+    color:cyan;
+}
+>>>>>>> 8e723704421733b6c60eed75b6fa68e2bd1b576c
