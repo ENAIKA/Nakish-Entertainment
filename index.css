@@ -10,7 +10,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     text-size-adjust: 100%;
     overflow-y: visible;
-    background-color: lightgrey;
+    background-color: lightgray;
     color: black;
     overflow-x: hidden;
   
@@ -62,11 +62,7 @@ nav a:hover{
         }
       }
 
-.btn{
 
-    color:white;
-    background-color: blue;
-}
 a{
     text-decoration: none;
 }
@@ -95,7 +91,9 @@ table {
       padding-left: 0;
   }
 =======
-h1{
-    color:cyan;
+#about a{
+     text-align:center;
+      padding-left: 300px;
+      background-color:green ;
+      display: block;
 }
->>>>>>> 8e723704421733b6c60eed75b6fa68e2bd1b576c
