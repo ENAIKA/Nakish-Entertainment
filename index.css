@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 body{
     margin: 0;
     text-align: left;
@@ -90,10 +90,9 @@ table {
   #about{
       padding-left: 0;
   }
-=======
+
 #about a{
      text-align:center;
-      padding-left: 300px;
-      background-color:green ;
-      display: block;
+     display: block;
+     
 }
